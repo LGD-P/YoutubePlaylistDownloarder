@@ -1,7 +1,7 @@
-# Youtube Playlist Downloarder
+# Youtube Playlist Downloader
 
-- A simple GUI to download your own Youtube playlists 
 - Une ptite interface graphique pour télécharger ses playlists Youtube
+- A simple GUI to download your own Youtube playlists 
 
 *Le script tourne sur linux des docstring sont présentes pour permettre un usage sur window (les icones, images et chemin de fichier n'étant pas pris en compte de la même manière.) / This script is running on linux some docstring indicate how to change it for Windows among other things that images and path are not processed the same on Window and Linux*
 
