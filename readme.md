@@ -65,4 +65,4 @@ Créer et écrire un fichier  .sh / creat and write.sh file:
 ![demo](demo.gif)
 
 
-*Pour ce que qui ne veulent pas se compliquer la vie, un .exe est dispo... et si vous utiliser Linux il y à toujours wine / For those who dont want complicate thing, you still have .exe, and if you're using Linux you still can run wine.*
+*Pour ce que qui ne veulent pas se compliquer la vie, un .exe est dispo dans le .7z... et si vous utiliser Linux il y à toujours wine / For those who dont want complicate thing, you still have .exe in .7z, and if you're using Linux you still can run wine.*
