@@ -3,10 +3,12 @@
 - A simple GUI to download your own Youtube playlists 
 - Une ptite interface graphique pour télécharger ses playlists Youtube
 
+*Le script tourne sur linux des docstring sont présentes pour permettre un usage sur window (les icones, images et chemin de fichier n'étant pas pris en compte de la même manière.) / This script is running on linux some docstring indicate how to change it for Windows among other things that images and path are not processed the same on Window and Linux*
+
 
 # Lancer depuis un terminal / Run from terminal : 
 
-- Se placer depuis le terminal dans le dossier où l'on exécute le script / In terminal go in directory where you will execute the script :
+- Se placer depuis le terminal dans le dossier où l'on exécute le script / From terminal go in directory where you will execute the script :
 
 - Avant toute chose on clone le répository git / Clone repository:
 
@@ -56,3 +58,11 @@ Créer et écrire un fichier  .sh / creat and write.sh file:
 
     sudo chmod +x Ytl.sh 
 
+*Aussi simple que ça.*
+
+# Démo:
+
+![demo](demo.gif)
+
+
+*Pour ce que qui ne veulent pas se compliquer la vie, un .exe est dispo... et si vous utiliser Linux il y à toujours wine / For those who dont want complicate thing, you still have .exe, and if you're using Linux you still can run wine.*
