@@ -53,7 +53,7 @@ window.attributes("-alpha", 0.90)
 canvas = Canvas(window, width=600, height=600)
 canvas.pack()
 
-logo_img = Image.open("167(1).png")
+logo_img = Image.open("img/167(1).png")
 logo_photo = ImageTk.PhotoImage(logo_img)
 canvas.create_image(300, 150, image=logo_photo)
 
