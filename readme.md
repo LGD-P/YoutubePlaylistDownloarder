@@ -1,3 +1,10 @@
+
+
+<p align='center'>
+    <img src="demo.gif">
+</p>
+
+
 # Youtube Playlist Downloader
 
 - Une ptite interface graphique pour télécharger ses playlists Youtube depuis un lien ou une liste de liens au format .txt
@@ -59,10 +66,5 @@ Créer et écrire un fichier  .sh / creat and write.sh file:
     sudo chmod +x Ytl.sh 
 
 *Aussi simple que ça.*
-
-# Démo:
-
-![demo](demo.gif)
-
 
 *Pour ce que qui ne veulent pas se compliquer la vie, un .exe est dispo dans le .7z... et si vous utilisez Linux il y à toujours wine / For those who dont want complicate thing, you still have .exe in .7z, and if you're using Linux you still can run wine.*
