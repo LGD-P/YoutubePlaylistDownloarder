@@ -19,32 +19,40 @@
 
 - Avant toute chose on clone le répository git / Clone repository:
 
+```bash
     git clone: https://github.com/LGD-P/YoutubePlaylistDownloarder.git
-
+```
 -Une fois le projet cloné on crée et on active l'environnement virtuel / creat virtual environement:
 
-    python3 -m venv env
-
+```bash
+python3 -m venv env
+```
 -Suivi de / activate it:
 
-    source env/bin/activate
+```bash
+source env/bin/activate
+```
 
 -Puis on lance l'installation des modules nécessaires au fonctionnement du script / install dependancies :
 
-    pip install -r requirements.txt
-
+```bash
+pip install -r requirements.txt
+```
 
 -Il n'y a plus qu'à exécuter le script / execute the script:
 
+```bash
     python3 main.py
-
+```
 
 # Lancer comme un exécutable Windows / Run as executable from .sh file :
 
 Créer et écrire un fichier  .sh / creat and write.sh file: 
 
-    touch Ydl.sh
-    nano Ydl.sh
+```bash
+touch Ydl.sh
+nano Ydl.sh
+```
 
 -1 : Ecrire le shebang / Write Shebang
 
@@ -52,19 +60,21 @@ Créer et écrire un fichier  .sh / creat and write.sh file:
 
 -3 : Ecrire la commande pour exécuter le script / Write command to execute script:
 
-
+```bash
     #!/bin/bash
     
     cd your_path/to_folder/containing_main.py
     
     python3 main.py
+```
 
 *save .sh with ctrl + x*
 
 -4 : Rendre le fichier .sh executable / make .sh file executable:
 
-    sudo chmod +x Ytl.sh 
-
+```bash
+sudo chmod +x Ytl.sh 
+```
 *Aussi simple que ça.*
 
 *Pour ce que qui ne veulent pas se compliquer la vie, un .exe est dispo dans le .7z... et si vous utilisez Linux il y à toujours wine / For those who dont want complicate thing, you still have .exe in .7z, and if you're using Linux you still can run wine.*
